@@ -8,6 +8,6 @@ Notes, Exercises and Assignments for [Udacity Natural Language Processing Nanode
 ## Solutions for Exercises and Assignments : 
 - [x] [Lesson 4: Intro to NLP -  Counting Words](/coursework/count_words.py)
 - [x] [Lesson 5: Text Processing - Workbook ](/coursework/text_processing.ipynb)
-- [ ] [Project : Spam Classifier with Naive Bayes](/coursework/spam-classifier/)
+- [x] [Project : Spam Classifier with Naive Bayes](/coursework/spam-classifier/)
 - [ ] [Project : Part of Speech Tagging using Hidden Markov Models](/assignment/hmm-tagger/)
 - [ ] [Project : BookWorm - A simple question-answering system built using IBM Watson's NLP services](/assignment/bookworm/)
